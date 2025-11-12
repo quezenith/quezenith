@@ -32,8 +32,8 @@ I like to say that we all have a toolbox that fills up with new tools with each 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-%23076D8D.svg?style=flat&logo=jquery&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Asp.Net](https://img.shields.io/badge/Asp.Net-blue)
+
 
 ## Frameworks e Bibliotecas / Libs
 ![WPF](https://img.shields.io/badge/WPF-%23397B68.svg?style=flat&logo=.net&logoColor=white)
@@ -46,7 +46,6 @@ I like to say that we all have a toolbox that fills up with new tools with each 
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23238E8F.svg?style=flat&logo=.net&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%235B4F4F.svg?style=flat&logo=hibernate&logoColor=white)
 ![Nhibernate](https://img.shields.io/badge/NHibernate-%235B4F4F.svg?style=flat&logo=nhibernate&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%FF4F4F.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230F4B7F.svg?style=flat&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
